@@ -1,1 +1,1 @@
-# lab-3.
+# lab-3. Examines how vague prompts can lead AI tools to assume or generate unsupported information. It compares ChatGPT and Gemini, identifies missing facts, improves prompts with verification instructions, and highlights the importance of checking aviation information before business use.
